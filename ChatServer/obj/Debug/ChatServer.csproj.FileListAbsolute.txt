@@ -1,0 +1,14 @@
+C:\Users\shahi\Desktop\Sneaky-Chat-master\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\shahi\Desktop\Sneaky-Chat-master\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\shahi\Desktop\Sneaky-Chat-master\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\shahi\Desktop\Sneaky-Chat-master\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+C:\Users\shahi\Desktop\Sneaky-Chat-master\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\shahi\Desktop\Sneaky-Chat-master\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\shahi\Desktop\Sneaky-Chat-master\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\shahi\Desktop\LabWork2\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\shahi\Desktop\LabWork2\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\shahi\Desktop\LabWork2\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\shahi\Desktop\LabWork2\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+C:\Users\shahi\Desktop\LabWork2\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\shahi\Desktop\LabWork2\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\shahi\Desktop\LabWork2\ChatServer\obj\Debug\ChatServer.pdb

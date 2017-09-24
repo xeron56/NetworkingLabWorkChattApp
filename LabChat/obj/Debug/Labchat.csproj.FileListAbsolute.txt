@@ -1,0 +1,24 @@
+C:\Users\shahi\Desktop\Sneaky-Chat-master\Sneaky Chat\bin\Debug\Sneaky Chat.exe.config
+C:\Users\shahi\Desktop\Sneaky-Chat-master\Sneaky Chat\bin\Debug\Sneaky Chat.exe
+C:\Users\shahi\Desktop\Sneaky-Chat-master\Sneaky Chat\bin\Debug\Sneaky Chat.pdb
+C:\Users\shahi\Desktop\Sneaky-Chat-master\Sneaky Chat\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\shahi\Desktop\Sneaky-Chat-master\Sneaky Chat\obj\Debug\Labchat.csprojResolveAssemblyReference.cache
+C:\Users\shahi\Desktop\Sneaky-Chat-master\Sneaky Chat\obj\Debug\Sneaky_Chat.Connect.resources
+C:\Users\shahi\Desktop\Sneaky-Chat-master\Sneaky Chat\obj\Debug\Sneaky_Chat.MainForm.resources
+C:\Users\shahi\Desktop\Sneaky-Chat-master\Sneaky Chat\obj\Debug\Sneaky_Chat.Properties.Resources.resources
+C:\Users\shahi\Desktop\Sneaky-Chat-master\Sneaky Chat\obj\Debug\Labchat.csproj.GenerateResource.Cache
+C:\Users\shahi\Desktop\Sneaky-Chat-master\Sneaky Chat\obj\Debug\Labchat.csproj.CoreCompileInputs.cache
+C:\Users\shahi\Desktop\Sneaky-Chat-master\Sneaky Chat\obj\Debug\Sneaky Chat.exe
+C:\Users\shahi\Desktop\Sneaky-Chat-master\Sneaky Chat\obj\Debug\Sneaky Chat.pdb
+C:\Users\shahi\Desktop\LabWork2\LabChat\bin\Debug\Sneaky Chat.exe.config
+C:\Users\shahi\Desktop\LabWork2\LabChat\bin\Debug\Sneaky Chat.exe
+C:\Users\shahi\Desktop\LabWork2\LabChat\bin\Debug\Sneaky Chat.pdb
+C:\Users\shahi\Desktop\LabWork2\LabChat\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\shahi\Desktop\LabWork2\LabChat\obj\Debug\Labchat.csprojResolveAssemblyReference.cache
+C:\Users\shahi\Desktop\LabWork2\LabChat\obj\Debug\Sneaky_Chat.Connect.resources
+C:\Users\shahi\Desktop\LabWork2\LabChat\obj\Debug\Sneaky_Chat.MainForm.resources
+C:\Users\shahi\Desktop\LabWork2\LabChat\obj\Debug\Sneaky_Chat.Properties.Resources.resources
+C:\Users\shahi\Desktop\LabWork2\LabChat\obj\Debug\Labchat.csproj.GenerateResource.Cache
+C:\Users\shahi\Desktop\LabWork2\LabChat\obj\Debug\Labchat.csproj.CoreCompileInputs.cache
+C:\Users\shahi\Desktop\LabWork2\LabChat\obj\Debug\Sneaky Chat.exe
+C:\Users\shahi\Desktop\LabWork2\LabChat\obj\Debug\Sneaky Chat.pdb
